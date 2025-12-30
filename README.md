@@ -6,6 +6,6 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Security using Snort and PfSense](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Security using Snort and PfSense](https://github.com/Kevvv123/Network-Defense-pfSense-snort)
 
 
