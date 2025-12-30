@@ -9,11 +9,3 @@
   - [Network Security using Snort and PfSense](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
-[instagram]: https://www.instagram.com/_.kevvv._/
-[linkedin]: https://www.linkedin.com/in/kevoy-townsend-4199a1276/
