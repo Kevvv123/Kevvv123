@@ -7,5 +7,5 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Network Security using Snort and PfSense](https://github.com/Kevvv123/Network-Defense-pfSense-snort)
-
+  - [SOC Home Lab](https://github.com/KevoyTownsend/SOC-Home-Lab)
 
